@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي نور عيني في لياليَّ
+> عشقنا سحر يفوق كل أمنية
+> كل نبضة في فؤادي لكِ هديّة
+> أنت روحي، أنت عشقي، يا غالية
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
