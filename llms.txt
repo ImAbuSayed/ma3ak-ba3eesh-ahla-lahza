@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma3ak Ba3eesh Ahla Lahza |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-ba3eesh-ahla-lahza/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي نور عيني في لياليَّ
+> عشقنا سحر يفوق كل أمنية
+> كل نبضة في فؤادي لكِ هديّة
+> أنت روحي، أنت عشقي، يا غالية
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
