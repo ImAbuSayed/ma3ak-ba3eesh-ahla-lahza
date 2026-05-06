@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ma3ak Ba3eesh Ahla Lahza |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-ba3eesh-ahla-lahza/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Ma3ak Ba3eesh Ahla Lahza](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
