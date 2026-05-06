@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-ba3eesh-ahla-lahza/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Ma3ak Ba3eesh Ahla Lahza](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Ma3ak Ba3eesh Ahla Lahza](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
