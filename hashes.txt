@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Ba3eesh Ahla Lahza
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Ba3eesh Ahla Lahza** (ma3ak-ba3eesh-ahla-lahza).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:27:07.500004 | `v1` | `7ccb02aef976f4073424a8a1773a22d7610e478dfa0e01ead5d7bd5d1b08d585` | `8406e898411adc0e8af09270dc0abce523ad865596f13237b7aa903c87a183bb` | `2026-05-08_ma3ak-ba3eesh-ahla-lahza-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
